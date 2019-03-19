@@ -1,5 +1,7 @@
 # Welcome to FastTools12!
 
+![](https://github.com/matteozappia/FastTools12/blob/master/FT12rnd.png)
+
 Hi guys!
 This is my first tool for jailbroken devices,
 it's open source so you can help me to improve it and make it better and better.
